@@ -32,12 +32,23 @@ Using the Pivot Tables in Excel, I was able to summarize the data set and derive
 
 
 ### Visualizations
-Throughout the training, we were introduced to visualizations in Excel and how to use visualizations to simplify and explain complex data concepts. We were also tasked with preparing our visualizations.
+We were introduced to visualizations in Excel and how to use visualizations to simplify and explain complex data concepts. We were also tasked with preparing our visualizations.
 
 Using the same medical dataset, we were asked to visualize the insights I got from the Pivot Tables created above
 
-For the first insight, I used a clustered column chart to show the average values for each body metric (height, weight, etc.) for both males and females. The clustered column chart helped group the data for each of the genders and give a simple concise view of the data as well as making it easy to see the relationship between the metrics if any.
+1. For the first insight, I used a clustered column chart to show the average values for each body metric (BMI, Heart Rate, e.t.c ) for both males and females. The clustered column chart helped group the data for each of the genders and give a simple, concise view of the data, as well as making it easy to see the relationship between the metrics, if any.
 
 ![](Week_2_Task_1_Viz_A.png)
 
-#
+2. For the second insight, I used a clustered column chart to show the average values for each body metric (height and weight) for both males and females. The clustered column chart helped group the data for each of the genders and give a simple, concise view of the data, as well as making it easy to see the relationship between the metrics, if any.
+
+![](Week_2_Task_1_Viz_B.png)
+
+3. For the third insight, I used a doughnut chart to show the number of people in each of the different blood groups. The doughnut chart was especially helpful in showing the proportion of the total population that had which specific blood group.
+
+![](Week_2_Task_1_Viz_C.png)
+
+
+
+
+
