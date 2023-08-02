@@ -36,7 +36,7 @@ We were introduced to visualizations in Excel and how to use visualizations to s
 
 Using the same medical dataset, we were asked to visualize the insights I got from the Pivot Tables created above
 
-1. For the first insight, I used a clustered column chart to show the average values for each body metric (BMI, Heart Rate, e.t.c ) for both males and females. The clustered column chart helped group the data for each of the genders and give a simple, concise view of the data, as well as making it easy to see the relationship between the metrics, if any.
+1. For the first insight, I used a clustered column chart to show the average values for each body metric (BMI, Heart Rate, etc.) for both males and females. The clustered column chart helped group the data for each of the genders and give a simple, concise view of the data, as well as making it easy to see the relationship between the metrics, if any.
 
 ![](Week_2_Task_1_Viz_A.png)
 
@@ -44,10 +44,20 @@ Using the same medical dataset, we were asked to visualize the insights I got fr
 
 ![](Week_2_Task_1_Viz_B.png)
 
-3. For the third insight, I used a doughnut chart to show the number of people in each of the different blood groups. The doughnut chart was especially helpful in showing the proportion of the total population that had which specific blood group.
+3. For the third insight, I used a doughnut chart to show the number of people in each of the different blood groups. The doughnut chart was especially helpful in showing the proportion of the total population that had a specific blood group.
 
 ![](Week_2_Task_1_Viz_C.png)
 
+4. For the fourth insight, I used a simple bar chart to show the proportion of the total data set who were smokers and those who didn't smoke. The bar chart easily showed that a large percentage of the data set were not smokers.
+
+![](Week_2_Task_1_Viz_D.png)
+
+5. The final insight showed the percentage of the population who are diabetic. I used a 3D Pie chart to show the proportion of the total data set who were smokers and those who didn't smoke. The bar chart easily showed that a small percentage of the data set was diabetic. From this, we could easily infer that there is a positive positive relationship between smoking and diabetes.
+
+![](Week_2_Task_1_Viz_E.png)
+
+## Conclusion
+I believe that I have been able to use the data given to me to provide valuable insight utilizing Pivot Tables and Visualizations in Microsoft Excel. Thank you
 
 
 
