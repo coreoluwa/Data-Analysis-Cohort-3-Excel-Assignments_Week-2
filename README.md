@@ -1,11 +1,11 @@
 # Data-Analysis-Cohort-3-Excel-Assignments_Week-2
 
-# Excel Sales Data Analysis
+# Excel Medical Data Analysis
 
-![](Intro_Image.jpg)
+![](Intro_Image_Medical_Data.jpeg)
 
 ## Introduction
-This is an assignment as part of a **Data Analysis Bootcamp facilitated by Promise Chinonso and Victor Somadina**. The data worked on is an imaginary data set on Medical Data for 200,000 people. The demographics of the people in the data set are males and females between the age of 18 and 34. The data colelcted incliude their height, weight, BMI, Blood Group, and Heartrate
+This is an assignment as part of a **Data Analysis Bootcamp facilitated by Promise Chinonso and Victor Somadina**. The data worked on is an imaginary set of Medical Data for 200,000 people. The demographics of the people in the data set are males and females between the ages of 18 and 34. The data collected included their height, weight, BMI, Blood Group, and Heartrate
 
 ## Tasks
 ### For Task 1
@@ -18,7 +18,7 @@ We were required to use the Medical Students Dataset, Create Pivot Tables displa
 
 Below are screenshots of the results for task 1
 
-Using the Pivot Tables in Excel, I was able to summarize the data set and derive the average values for all Males and Females with respect to their Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol. On the row, we have the gender column which contains the Male and Female metadata, and on the columns, we have the values themselves. I also used the inbuilt calculation features of Excel to derive the average values.
+Using the Pivot Tables in Excel, I was able to summarize the data set and derive the average values for all Males and Females concerning their Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol. On the row, we have the gender column which contains the Male and Female metadata, and on the columns, we have the values themselves. I also used the inbuilt calculation features of Excel to derive the average values.
 
 ![](Week_2_Task_1_A.png)
 
@@ -32,7 +32,7 @@ Using the Pivot Tables in Excel, I was able to summarize the data set and derive
 
 
 ### Visualizations
-Over the course of the training, we were introduced to visualizations in Excel and how to use visualizations to simplify and explain complex data concepts. We were also tasked with preparing our own visualizations.
+Throughout the training, we were introduced to visualizations in Excel and how to use visualizations to simplify and explain complex data concepts. We were also tasked with preparing our visualizations.
 
 Using the same medical dataset, we were asked to visualize the insights I got from the Pivot Tables created above
 Create a column named ‘Sales Range’, and return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
