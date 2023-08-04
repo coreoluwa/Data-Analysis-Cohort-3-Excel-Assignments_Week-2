@@ -28,7 +28,7 @@ Using the Pivot Tables in Excel, I was able to summarize the data set and derive
 
 Using the Pivot Tables in Excel, I was able to summarize the data set and derive the number of students in each of the different Blood Groups, the number of students who smoke and those who don't, as well as the number of students who have diabetes and those who don’t. On the row, we have the metadata for blood type, Response to smoking on the survey, and Response to having diabetes, and on the columns, we have the values themselves. I also used the in-built calculation features of Excel to derive the average values.
 
-![](Week_2_Task_1_CDE.png)
+![](Week_2_Task_1_CDE_Correction.png)
 
 
 ### Visualizations
